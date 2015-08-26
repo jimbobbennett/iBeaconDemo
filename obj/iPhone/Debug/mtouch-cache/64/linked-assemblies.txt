@@ -1,0 +1,3 @@
+/Users/jimdemo/Projects/iBeaconDemo/obj/iPhone/Debug/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/jimdemo/Projects/iBeaconDemo/obj/iPhone/Debug/mtouch-cache/64/Link/iBeaconDemo.exe
+/Users/jimdemo/Projects/iBeaconDemo/obj/iPhone/Debug/mtouch-cache/64/Link/mscorlib.dll
